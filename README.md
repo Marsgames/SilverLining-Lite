@@ -20,6 +20,12 @@ Jeu multijoueur de stratégie en temps réel et en réseau local, les joueurs en
 <br />
 [Site du projet](https://silverlininggame.wixsite.com/home)
 
+## Tutoriaux vidéo
+[01 - Introduction au jeu](https://youtu.be/6BPZxvs49DQ)
+[02 - Les obstacles](https://youtu.be/DVfm-BCqKwM)
+[03 - Les ressources et la vue tactique](https://youtu.be/c4ZSQTJGswY)
+[04 - Les points d'intérêt](https://youtu.be/D9-HWTkAG_s)
+[05 - Les zones de contrôle](https://youtu.be/BrhZZgsrRuo)
 
 ## Commencer à jouer
 
